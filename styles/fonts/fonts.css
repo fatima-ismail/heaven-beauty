@@ -1,0 +1,7 @@
+:root {
+  --font-primary: var(--font-instrument-sans), "Segoe UI", Arial, sans-serif;
+  --font-display: var(--font-instrument-sans), "Segoe UI", Arial, sans-serif;
+  --font-accent: var(--font-italiana), Georgia, "Times New Roman", serif;
+  --font-size-base: 16px;
+  --line-height-base: 1.5;
+}

@@ -1,0 +1,20 @@
+:root {
+  --color-sky: #b9daf7;
+  --color-sky-soft: #eaf6ff;
+  --color-cloud: #f7fafd;
+  --color-cloud-muted: #eff8ff;
+  --color-pink: #f7bddf;
+  --color-pink-soft: #fbe5f4;
+  --color-lilac: #d6caf1;
+  --color-lilac-soft: #ebe4ff;
+  --color-berry: #d7194d;
+  --color-ink: #11224a;
+  --color-ink-soft: #53627d;
+  --color-white: #ffffff;
+  --color-panel: rgba(239, 229, 255, 0.78);
+  --color-glass: rgba(255, 255, 255, 0.24);
+  --color-shadow: rgba(44, 61, 97, 0.18);
+  --color-border: rgba(42, 84, 135, 0.15);
+  --gradient-card: linear-gradient(180deg, var(--color-sky) 0%, var(--color-pink) 100%);
+  --gradient-panel: linear-gradient(135deg, rgba(191, 223, 251, 0.82), rgba(252, 209, 235, 0.82));
+}

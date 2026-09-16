@@ -1,0 +1,19 @@
+# Dependencies and framework build output
+node_modules/
+.next/
+out/
+
+# Local environment files
+.env*
+!.env.example
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Original product artwork is kept locally; the site uses the optimized WebP files.
+/public/images/products with bg/*.png
+/public/images/products no bg/*.png
+
+tmp/
