@@ -1161,6 +1161,10 @@ main {
   animation: heroTextIn 1700ms 1400ms ease forwards;
 }
 
+.hero__mobile-elevated {
+  display: inline;
+}
+
 .hero__product {
   position: absolute;
   top: var(--hero-product-top, -26%);
@@ -4510,6 +4514,10 @@ main {
   .hero h1 {
     top: 92px;
     font-size: clamp(3rem, 10.8vw, 4.25rem);
+  }
+
+  .hero__mobile-elevated {
+    display: block;
   }
 
   .hero__content {
