@@ -4504,7 +4504,7 @@ main {
   }
 
   .brand img {
-    width: 122px;
+    width: 160px;
   }
 
   .header-actions {
@@ -4512,7 +4512,7 @@ main {
   }
 
   .hero h1 {
-    top: 92px;
+    top: 30px;
     font-size: clamp(3rem, 10.8vw, 4.25rem);
   }
 
@@ -5229,7 +5229,7 @@ main {
   }
 
   .hero h1 {
-    top: 92px;
+    top: 30px;
   }
 
   .hero__product {
