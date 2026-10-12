@@ -36,7 +36,7 @@ export function Hero() {
       <div className="hero__bottom-shade" aria-hidden="true" />
       <Nav />
       <div className="hero__content">
-        <h1>Heaven Beauty</h1>
+        <h1>Your Beauty, Elevated.</h1>
         <div className="hero__product">
           <Image src={assets.product} alt="Heaven Beauty tint bottle resting on a pink cloud" width={920} height={1152} priority />
         </div>
