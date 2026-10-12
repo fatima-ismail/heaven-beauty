@@ -18,10 +18,7 @@ const italiana = Italiana({
 
 export const metadata: Metadata = {
   title: "Heaven Beauty",
-  description: "A soft, lightweight tint for radiant everyday beauty.",
-  icons: {
-    icon: "/images/logo-icon.jpg"
-  }
+  description: "A soft, lightweight tint for radiant everyday beauty."
 };
 
 export default function RootLayout({
