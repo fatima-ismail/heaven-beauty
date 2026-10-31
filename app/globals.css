@@ -438,6 +438,7 @@ main {
 }
 
 .currency__chevron {
+  display: inline-block;
   width: 9px;
   height: 9px;
   margin: -4px 0 0 2px;
