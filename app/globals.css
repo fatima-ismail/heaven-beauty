@@ -439,15 +439,10 @@ main {
 
 .currency__chevron {
   display: block;
-  width: 12px;
-  height: 8px;
+  width: 16px;
+  height: 16px;
   margin-left: 2px;
-  overflow: visible;
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-width: 2;
+  fill: currentColor;
   transition: transform 220ms cubic-bezier(0.19, 1, 0.22, 1);
 }
 
