@@ -13,7 +13,7 @@ export function FeaturedProduct() {
   const decreaseQuantity = () => setQuantity((currentQuantity) => Math.max(1, currentQuantity - 1));
   const increaseQuantity = () => setQuantity((currentQuantity) => currentQuantity + 1);
   const buyFeaturedTint = () => {
-    addItem({ name: "Heavenly tint - Kind", price: "26$", image: assets.kind }, quantity);
+    addItem({ name: "Heavenly Tint - Kind", price: "26$", image: assets.kind }, quantity);
     window.location.href = "/checkout";
   };
 
@@ -26,7 +26,7 @@ export function FeaturedProduct() {
         <Image className="feature-card__bottle" src={assets.kind} alt="" width={300} height={376} />
         <div className="feature-card__copy">
           <p className="eyebrow">the first of its kind</p>
-          <h2>Heavenly tint - Kind</h2>
+          <h2>Heavenly Tint - Kind</h2>
           <p>A soft kind tint that blends into your skin for a fresh radiant glow.</p>
           <div className="price-row">
             <span>{formatPrice("26$")}</span>

@@ -81,7 +81,6 @@ export function Nav({ variant = "hero" }: NavProps) {
               {link.label}
             </a>
           ))}
-          <CurrencyDropdown />
         </nav>
         <div className="header-actions" aria-label="Account and shopping actions">
           <a className="header-action-link" href="#" aria-label="Account">

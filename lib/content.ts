@@ -20,8 +20,8 @@ export const assets = {
 };
 
 export const contact = {
-  phoneDisplay: "+961 78 835 678",
-  phoneE164: "+96178835678"
+  phoneDisplay: "+961 78 835 078",
+  phoneE164: "+96178835078"
 };
 
 export const currencies = [
@@ -74,7 +74,7 @@ export const products = [
   {
     slug: "love-sparkly",
     name: "Love - Sparkly",
-    displayName: "Sparkly tint - Love",
+    displayName: "Sparkly Tint - Love",
     price: "26$",
     image: "/images/optimized/products-no-bg/sparkly-love.webp",
     detailImage: "/images/optimized/products-with-bg/sparkly-love.webp",
@@ -84,8 +84,8 @@ export const products = [
   },
   {
     slug: "pure-sparkly",
-    name: "pure - Sparkly",
-    displayName: "Sparkly tint - Pure",
+    name: "Pure - Sparkly",
+    displayName: "Sparkly Tint - Pure",
     price: "26$",
     image: "/images/optimized/products-no-bg/sparkly-pure.webp",
     detailImage: "/images/optimized/products-with-bg/sparkly-pure.webp",
@@ -95,8 +95,8 @@ export const products = [
   },
   {
     slug: "kind-sparkly",
-    name: "kind - Sparkly",
-    displayName: "Sparkly tint - Kind",
+    name: "Kind - Sparkly",
+    displayName: "Sparkly Tint - Kind",
     price: "26$",
     image: "/images/optimized/products-no-bg/sparkly-kind.webp",
     detailImage: "/images/optimized/products-with-bg/sparkly-kind.webp",
@@ -107,7 +107,7 @@ export const products = [
   {
     slug: "love-heavenly",
     name: "Love - Heavenly",
-    displayName: "Heavenly tint - Love",
+    displayName: "Heavenly Tint - Love",
     price: "26$",
     image: "/images/optimized/products-no-bg/love.webp",
     detailImage: "/images/optimized/products-with-bg/love.webp",
@@ -118,8 +118,8 @@ export const products = [
   },
   {
     slug: "pure-heavenly",
-    name: "pure - Heavenly",
-    displayName: "Heavenly tint - Pure",
+    name: "Pure - Heavenly",
+    displayName: "Heavenly Tint - Pure",
     price: "26$",
     image: "/images/optimized/products-no-bg/pure.webp",
     detailImage: "/images/optimized/products-with-bg/pure.webp",
@@ -131,8 +131,8 @@ export const products = [
   },
   {
     slug: "kind-heavenly",
-    name: "kind - Heavenly",
-    displayName: "Heavenly tint - Kind",
+    name: "Kind - Heavenly",
+    displayName: "Heavenly Tint - Kind",
     price: "26$",
     image: "/images/optimized/products-no-bg/kind.webp",
     detailImage: "/images/optimized/products-with-bg/kind.webp",
@@ -144,7 +144,7 @@ export const products = [
   {
     slug: "devotion",
     name: "Devotion",
-    displayName: "Heavenly tint - Devotion",
+    displayName: "Heavenly Tint - Devotion",
     price: "26$",
     image: "/images/optimized/products-no-bg/devotion.webp",
     detailImage: "/images/optimized/products-with-bg/devotion.webp",
